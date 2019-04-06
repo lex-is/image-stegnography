@@ -1,0 +1,14 @@
+C:\Users\Tanny\Documents\Visual Studio 2013\Projects\ImCryption\Backup\ImCryption\bin\Debug\ImCryption.exe.manifest
+C:\Users\Tanny\Documents\Visual Studio 2013\Projects\ImCryption\Backup\ImCryption\bin\Debug\ImCryption.application
+C:\Users\Tanny\Documents\Visual Studio 2013\Projects\ImCryption\Backup\ImCryption\bin\Debug\ImCryption.exe
+C:\Users\Tanny\Documents\Visual Studio 2013\Projects\ImCryption\Backup\ImCryption\bin\Debug\ImCryption.pdb
+C:\Users\Tanny\Documents\Visual Studio 2013\Projects\ImCryption\Backup\ImCryption\obj\Debug\ImCryption.csprojResolveAssemblyReference.cache
+C:\Users\Tanny\Documents\Visual Studio 2013\Projects\ImCryption\Backup\ImCryption\obj\Debug\Text2Image.FrmImCryption.resources
+C:\Users\Tanny\Documents\Visual Studio 2013\Projects\ImCryption\Backup\ImCryption\obj\Debug\ImCryption.Properties.Resources.resources
+C:\Users\Tanny\Documents\Visual Studio 2013\Projects\ImCryption\Backup\ImCryption\obj\Debug\ImCryption.csproj.GenerateResource.Cache
+C:\Users\Tanny\Documents\Visual Studio 2013\Projects\ImCryption\Backup\ImCryption\obj\Debug\ImCryption.exe.manifest
+C:\Users\Tanny\Documents\Visual Studio 2013\Projects\ImCryption\Backup\ImCryption\obj\Debug\ImCryption.application
+C:\Users\Tanny\Documents\Visual Studio 2013\Projects\ImCryption\Backup\ImCryption\obj\Debug\ImCryption.exe
+C:\Users\Tanny\Documents\Visual Studio 2013\Projects\ImCryption\Backup\ImCryption\obj\Debug\ImCryption.pdb
+C:\Users\Tanny\Documents\Visual Studio 2013\Projects\ImCryption\ImCryption\obj\Debug\ImCryption.exe
+C:\Users\Tanny\Documents\Visual Studio 2013\Projects\ImCryption\ImCryption\obj\Debug\ImCryption.pdb
